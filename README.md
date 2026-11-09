@@ -2,6 +2,17 @@
 
 [苹果 ID 批发与一件代发指南：批量采购的成本构成、存活率与售后怎么算、如何验号避免「共享号冒充独享号」，以及小卖家自建号池与直接采购的盈亏平衡点。附各区老号现货与批量询价入口。](https://nbid666.com/products)
 
+
+<p align="center"><b>👇 三个都是按钮，点哪个进哪个</b></p>
+
+<p align="center">
+  <a href="https://nbid666.com/products" title="各区独享老号现货，带密保、可转区、自动发货"><img src="assets/all_buy.png" alt="各区老号 · 立即购买" height="68"></a>
+  <br><br>
+  <a href="https://id.tangping.icu/" title="免费共享取号，密码定期轮换，失效自动重置"><img src="assets/all_free.png" alt="免费共享 · 立即取号" height="68"></a>
+  <br><br>
+  <a href="https://nbid666.com/products" title="全部地区现货，可对比价格"><img src="assets/all_regions.png" alt="全部地区 · 对比价格" height="68"></a>
+</p>
+
 > 最近更新：2026-11-10
 
 
